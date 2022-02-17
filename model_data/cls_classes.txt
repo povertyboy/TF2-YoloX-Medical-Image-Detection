@@ -1,0 +1,6 @@
+vessel
+sclerosis
+plaque
+normal
+pseudomorphism
+
